@@ -18,7 +18,7 @@ This app gamifies personal finance:
 - **Gamification**: Earn points and track progress toward goals  
 
 ## Tech Stack
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: HTML, CSS, JavaScript, React, Typescript 
 - **Backend**: Node.js + Express  
 - **Database**: MongoDB  
 
